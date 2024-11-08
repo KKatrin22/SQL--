@@ -1,4 +1,4 @@
-Выполняла SQL-запросы для получения, фильтрации и сортировки данных в учебному проекте <a href=https://sqltest.online> sqltest.online</a>
+Выполняла SQL-запросы для получения, фильтрации и сортировки данных в учебном проекте <a href=https://sqltest.online> sqltest.online</a>
 
 ## Основы SQL 
 
@@ -949,7 +949,7 @@ GROUP BY
 ORDER BY 
   payment_month;
 ```
-  
+
 
 
 
